@@ -6,7 +6,7 @@ st.title('🎈 Josiah-Chatbot')
 
 
 with st.sidebar:
-    st.title('🤗💬 HugChat')
+    st.title('🤗💬 Josiah-Chatbot')
     if ('EMAIL' in st.secrets) and ('PASS' in st.secrets):
         st.success('HuggingFace Login credentials already provided!', icon='✅')
         hf_email = st.secrets['EMAIL']
