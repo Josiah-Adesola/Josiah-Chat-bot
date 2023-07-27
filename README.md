@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📦Josiah-Chat-bot
 ```
-⬆️ (Replace above with your app's name)
+⬆️ This chatbot backend is powered by hugging-chat api
 ```
 
 Description of the app ...
@@ -11,11 +11,6 @@ Description of the app ...
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
